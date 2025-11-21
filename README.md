@@ -6,4 +6,4 @@
 - ⚡ Fun fact: i love Nu-metal and Emo
 ---
 **my skills...**
-`python` `html` `css` `js` `figma`
+`python` `html` `css` `js` `figma` `obsidian`
